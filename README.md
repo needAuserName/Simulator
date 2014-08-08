@@ -15,11 +15,6 @@ Table of Contents
 * [Introduction](#introduction)
 * [Compilation & Installation](#compilation)
 * [Usage](#usage)
-* [Example](#example)
-* [Simulation](#simulation)
-* [Generate Transcript-to-Gene-Map from Trinity Output](#gen_trinity)
-* [Differential Expression Analysis](#de)
-* [Acknowledgements](#acknowledgements)
 
 * * *
 
@@ -57,3 +52,11 @@ C++ is required to be installed.
 
 
 ## <a name="usage"></a> Usage
+
+command: simulator
+
+The software will take input of gene/isoform annotation in gaf format 
+(example: trans.gaf) and generate simulated raw paired-end RNA-seq
+reads. 
+To generate reads based on your own input reference annotation, simply
+replace your annotation with trans.gaf.

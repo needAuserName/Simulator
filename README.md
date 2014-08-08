@@ -1,7 +1,7 @@
 Simulator
 =========
 
-simulate RNA-seq reads following RNA-seq protocal
+simulate RNA-seq reads following RNA-seq protocal: This project is actively maintained at: http://www.netlab.uky.edu/p/bioinfo/
 
 ===============
 
